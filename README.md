@@ -1,5 +1,5 @@
-# gamedev-test
-Just playing around with some 3D game dev stuff
+# Blender import to Unity
+This is a very rough "game" for my learning purposes with Unity. Tracking changes and logging my learning :)
 
 # TO-DO
 - [ ] Start developing the game
